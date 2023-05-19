@@ -1,3 +1,8 @@
 *.~[0-9]~
 *.swp
 example_aubioDemo/aubio.framework
+example_aubioDemo/.vs
+example_aubioDemo/obj
+*.sln
+*.vcxproj*
+example_aubioDemo/icon.rc
